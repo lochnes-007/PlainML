@@ -31,7 +31,6 @@ dist/
 build/
 
 # Data files
-*.csv
 *.tsv
 *.parquet
 *.feather
