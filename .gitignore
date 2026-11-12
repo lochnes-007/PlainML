@@ -3,6 +3,10 @@
 venv/
 env/
 
+*.venv-clean/
+
+.venv-clean/
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
